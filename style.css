@@ -222,28 +222,28 @@ body {
     left: -1.5%; }
 
 @media only screen and (-Webkit-min-device-pixel-ratio: 1.5), only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min-device-pixel-ratio: 1.5) {
-  .icons .handshake-icon {
+  .start-section .icons .handshake-icon {
     width: 60px;
     height: 60px; }
-  .icons .communication-icon {
+  .start-section .icons .communication-icon {
     width: 52px;
     height: 52px; }
-  .icons .think-icon {
+  .start-section .icons .think-icon {
     width: 52px;
     height: 52px; }
-  .icons .computer-icon {
+  .start-section .icons .computer-icon {
     width: 42px;
     height: 42px; }
-  .icons .conversation-icon {
+  .start-section .icons .conversation-icon {
     width: 37px;
     height: 37px; }
-  .icons .key-icon {
+  .start-section .icons .key-icon {
     width: 47px;
     height: 47px; }
-  .icons .puzzle-icon {
+  .start-section .icons .puzzle-icon {
     width: 36px;
     height: 36px; }
-  .icons .society-icon {
+  .start-section .icons .society-icon {
     width: 55px;
     height: 55px; } }
 
